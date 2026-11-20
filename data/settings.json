@@ -1,0 +1,11 @@
+{
+  "music_volume": 20,
+  "sfx_volume": 90,
+  "window_size": [
+    840,
+    600
+  ],
+  "muted": false,
+  "mute_music": false,
+  "mute_sfx": false
+}
